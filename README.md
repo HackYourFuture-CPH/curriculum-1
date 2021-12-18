@@ -2,10 +2,10 @@
 
 >Here you can find an overview of the HackYourFuture program. It gives insight in how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Our half year course is divided into modules that last 3 weeks with exception of the project module that lasts 6 weeks. Below you can find a short listing of the contents and deliverables/learning goals of the different modules. The headers of the different modules link to the actual repositories that are used by teachers to post assignments/reading materials etc. Be aware that some of the modules make use of more than one repository. 
 
-- Are you a new teacher? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/master/i-am-a-new-teacher.md) for some practical tips on how to get started!
-- Are you a new student? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/master/i-am-a-new-student.md) to see how to prepare for your first class!
+- Are you a new teacher? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/main/i-am-a-new-teacher.md) for some practical tips on how to get started!
+- Are you a new student? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/main/i-am-a-new-student.md) to see how to prepare for your first class!
 
-### **Are you either a new student or a new teacher? Take a look at what we see as our [core values](https://github.com/HackYourFuture/curriculum/blob/master/hyf-core-values.md) at HackYourFuture before you join our community** :heart:
+### **Are you either a new student or a new teacher? Take a look at what we see as our [core values](https://github.com/HackYourFuture/curriculum/blob/main/hyf-core-values.md) at HackYourFuture before you join our community** :heart:
 
 # What do we teach?
 

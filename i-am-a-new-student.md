@@ -1,4 +1,4 @@
-**Please read the [HackYourFuture core values](https://github.com/HackYourFuture/curriculum/blob/master/hyf-core-values.md)**
+**Please read the [HackYourFuture core values](https://github.com/HackYourFuture/curriculum/blob/main/hyf-core-values.md)**
 
 ## When do we teach?
 
